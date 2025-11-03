@@ -46,7 +46,7 @@ An AI-powered system designed to automate café operations using **Computer Visi
 
 ## 🧩 Installation
 ```bash
-git clone https://github.com/<your-username>/Advanced_Cafe_Management_System.git
+git clone https://github.com/atharva-cyber67/Advanced_Cafe_Management_System.git
 cd Advanced_Cafe_Management_System
 pip install -r requirements.txt
 python main.py
